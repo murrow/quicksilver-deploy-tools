@@ -1,5 +1,5 @@
 {
-  "name": "murrow/quicksilver-deploy-tools",
+  "name": "kalamuna/quicksilver-deploy-tools",
   "description": "Runs post-deployment commands such as clear cache and configuration import. Forked from kalamuna/quicksilver-deploy-tools.",
   "type": "quicksilver-script",
   "require": {
