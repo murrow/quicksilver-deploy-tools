@@ -42,5 +42,5 @@ workflows:
     after:
       - type: webphp
         description: Import configuration from .yml files
-        script: private/scripts/quicksilver-deploy-tools/postdeploy.php
+        script: private/scripts/quicksilver/quicksilver-deploy-tools/postdeploy.php
 ```
