@@ -4,7 +4,7 @@
   "type": "quicksilver-script",
   "require": {
     "composer/installers": "^2.2",
-    "ffss/qs-composer-installer": "*"
+    "rvtraveller/qs-composer-installer": "*"
   },
   "license": "MIT"
 }
