@@ -1,10 +1,10 @@
 {
-  "name": "kalamuna/quicksilver-deploy-tools",
-  "description": "Runs postedployment commands such as clear cache and configuration import.",
+  "name": "murrow/quicksilver-deploy-tools",
+  "description": "Runs post-deployment commands such as clear cache and configuration import. Forked from kalamuna/quicksilver-deploy-tools.",
   "type": "quicksilver-script",
   "require": {
-    "composer/installers": "~1.0",
-    "rvtraveller/qs-composer-installer": "~1.0"
+    "composer/installers": "^2.2",
+    "ffss/qs-composer-installer": "*"
   },
   "license": "MIT"
 }
